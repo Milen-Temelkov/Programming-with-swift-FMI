@@ -1,0 +1,1 @@
+Solutions to homeworks from 'Programming with Swift' course in FMI
